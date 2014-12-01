@@ -10,6 +10,8 @@
 
 [5] Mrs Pennington came to the front porch. "Tommy, I have your jacket. Please put it on."
 
+[8]  The maple leaf blew in front of him. It was bright red with well-defined veins. The sun-light shone through it giving it a brilliance never before seen by a little boy's eyes.
+
 [?] "Where do you think we are going?" Tommy asked the lead.
 
     "Does it matter?" the leaf replied. "Have fun. Life is short."
@@ -36,9 +38,15 @@ Tommy, I have your jacket. Please put it on.
 “Follow me to the city dump,” the maple leaf said.  “Most of met friends are there.”
 [14] Tommy saw the fence that surrounded the city dump. He was happy to be with his friend. They would have fun in the dump.
 
+[?] "Not so fast," she said getting out of the car. "You are not allowed to play in there. Don't you see the smoke?"
+
+    Tommy watched the maple leaf blow against the wall and struggle to get over. He ran over to get it but was unable to reach it.
+
+    Mrs. Pennington walked over and took the leaf. She put it in her pocket.
+
 [16]  "There," she said, "it will be safe until we get home."
 
-	Suddenly, a car pulled up. It was Tommy’s mom. Mrs. Pennington wasn’t about to let her little boy run into the city dump.
+	Tommy smiled, ran into the car and got in. He rolled down the back window and looked up into the sky. He wondered where the old lead had gone. Perhaps one day he would see what the old leaf had seen - perhaps.
 
 
 [?] "Where do you think we are going?" Tommy asked the lead.
