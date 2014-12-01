@@ -34,6 +34,8 @@
 		"This is fun," Tommy thought.
 
 
+[8] The maple leaf blew in front of him. It was bright red with well defined veins. The sun-light shone through it giving it a brilliance never before seen by a little boy's eyes.
+
 [?] "Where do you think we are going?" Tommy asked the lead.
 
     "Does it matter?" the leaf replied. "Have fun. Life is short."
@@ -59,6 +61,16 @@ Tommy and the maple leaf ignored him.
 "I see something. I see the dump." The old leaf cried out. "I see smoke. Come up here. I see fire."
 
 "I see nothing," the maple leaf said.
+
+“Follow me to the city dump,” the maple leaf said.  “Most of met friends are there.”
+
+[11]  The wind blew Tommy and the maple leaf along. Tommy thought of his choices. He wanted to continue to play.
+
+"Okay," Tommy said, "I will go with you to the dump."
+
+The winds shifted and Tommy and the leaf were blown in the directon of the city dump.
+
+The old leaf didn't follow. He was blown further down the block and suddenly lifted up high into the air.
 
 
 [14] Tommy saw the fence that surrounded the city dump. He was happy to be with his friend. They would have fun in the dump.
