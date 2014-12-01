@@ -38,7 +38,7 @@ Outside, yellow, gold, and red leaves were leaping from swaying trees, landing o
 
    [8] The maple leaf blew in front of him. It was bright red with well defined veins. The sun-light shone through it giving it a brilliance never before seen by a little boy's eyes.
 
-[?] "Where do you think we are going?" Tommy asked the lead.
+  [9] "Where do you think we are going?" Tommy asked the lead.
 
     "Does it matter?" the leaf replied. "Have fun. Life is short."
 
@@ -63,6 +63,14 @@ Outside, yellow, gold, and red leaves were leaping from swaying trees, landing o
 The winds shifted and Tommy and the leaf were blown in the directon of the city dump.
 
 The old leaf didn't follow. He was blown further down the block and suddenly lifted up high into the air.
+
+[12] "Hey," he called out, "the sights up here. They are spectacular. Come and see."
+
+Tommy and the maple leaf ignored him.
+
+"I see something. I see the dump." The old leaf cried out. "I see smoke. Come up here. I see fire."
+
+"I see nothing," the maple leaf said.
 
 [14] Tommy saw the fence that surrounded the city dump. He was happy to be with his friend. They would have fun in the dump.
 
