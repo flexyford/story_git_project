@@ -4,7 +4,7 @@
 
       "Oh my," she said.
 
-  [?] Tommy was watching the shutters open and then shut, open and then shut.
+  [2] Tommy was watching the shutters open and then shut, open and then shut.
 
     "Mom," he said, "may I go outside?"
 
@@ -16,13 +16,13 @@
 
     Outside, yellow, gold, and red leaves were leaping from swaying trees, landing on the roof, jumping off the roof, and then chasing one another down the street in tiny whirlwinds of merriment.
 
-     [?] Tommy watched in fascination.
+     [4] Tommy watched in fascination.
 
 “If I was a leaf, I would fly clear across the world,” Tommy thought and then ran out into the yard among the swirl of colors.
 
     [5] Mrs. Pennington came to the front porch.  "Tommy, I have your jacket. Please put it on."
 
-    [?] However, there was no Tommy in the front yard. 
+    [6] However, there was no Tommy in the front yard. 
 
     "Tommy?"
 
@@ -32,7 +32,6 @@
 [?]  A maple leaf came close-by, touched him and moved ahead. Tommy met him shortly, brushed against him, and moved further ahead. They swirled around and around, hit cars and poles, flew up into the air and then down again.
 
 		"This is fun," Tommy thought.
-
 
 
 [?] "Where do you think we are going?" Tommy asked the lead.
@@ -62,7 +61,6 @@ Tommy and the maple leaf ignored him.
 "I see nothing," the maple leaf said.
 
 
-
 [14] Tommy saw the fence that surrounded the city dump. He was happy to be with his friend. They would have fun in the dump.
 
 Suddenly, a car pulled up. It was Tommy's mom. Mrs. Pennington wasn't about to let her little boy run into the city dump.
@@ -71,3 +69,6 @@ Suddenly, a car pulled up. It was Tommy's mom. Mrs. Pennington wasn't about to l
 [16]  "There," she said, "it will be safe until we get home."
 
       Tommy smiled, ran into the car and got in. He rolled down the back window and looked up into the sky. He wondered where the old lead had gone. Perhaps one day he would see what the old leaf had seen - perhaps.
+
+
+
